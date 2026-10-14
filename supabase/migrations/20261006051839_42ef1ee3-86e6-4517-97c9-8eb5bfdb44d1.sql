@@ -1,0 +1,1 @@
+CREATE TABLE public.hotel_ai_status (id text PRIMARY KEY, blocked boolean NOT NULL DEFAULT false, message text, updated_at timestamptz NOT NULL DEFAULT now()); GRANT ALL ON public.hotel_ai_status TO service_role; ALTER TABLE public.hotel_ai_status ENABLE ROW LEVEL SECURITY; INSERT INTO public.hotel_ai_status (id, blocked) VALUES ('recommendations', false);

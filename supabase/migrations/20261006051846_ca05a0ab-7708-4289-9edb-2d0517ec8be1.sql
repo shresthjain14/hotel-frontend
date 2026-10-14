@@ -1,0 +1,1 @@
+CREATE POLICY "Internal service manages AI availability" ON public.hotel_ai_status FOR ALL TO service_role USING (true) WITH CHECK (true);

@@ -1,0 +1,12 @@
+# Hotel updates
+- [x] Navigation: Location and Contact, remove Offers.
+- [x] Autoplay the six uploaded welcome videos in sequence.
+- [x] Guest travel-needs form with real AI hotel recommendations.
+- [x] Clearer welcome video presentation without changing the design.
+- [x] Uploaded oud music with independent mute/unmute control.
+- [x] Appropriate authentic hotel photos throughout the pages.
+- [x] Verify playback, music controls, photos, and tests.
+- [ ] Use the uploaded building photo on the Hotel page.
+- [ ] Add an owner photo-and-quote section on the homepage and a smaller manager section near the bottom.
+- [ ] Add authentic owner and manager portraits (waiting for uploaded photos).
+- [ ] Verify the changed pages on large and small screens.
